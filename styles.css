@@ -588,7 +588,9 @@ textarea{
         margin-right: 2em;
     }
 
-
+p{
+    font-size: 2em;
+}
 
 #groupPhotoTop img {
         max-width: 100%;
